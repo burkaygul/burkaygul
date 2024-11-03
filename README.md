@@ -1,4 +1,3 @@
-[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Burkay Gül</h1>
 <h3 align="center">An Test Automation Engineer& Software Qualifikation Engineer from Germany</h3>
 
